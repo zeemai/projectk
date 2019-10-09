@@ -1,9 +1,9 @@
-import inception from './inception2.jpg';
-import deepwaterHorizon from './deepwater horizon.jpg';
-import kong from './kong.jpg';
-import pulpFiction from './pulp fiction.jpg';
-import starTrek from './star trek.jpg';
-import theMist from './the mist.jpg';
+import inception from './images/inception2.jpg';
+import deepwaterHorizon from './images/deepwater horizon.jpg';
+import kong from './images/kong.jpg';
+import pulpFiction from './images/pulp fiction.jpg';
+import starTrek from './images/star trek.jpg';
+import theMist from './images/the mist.jpg';
 
 export default function getGallery() {
     return [
