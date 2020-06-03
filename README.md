@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Screenshot 2020-06-03 at 21 56 55](https://user-images.githubusercontent.com/46029164/83688456-5b88b080-a5e5-11ea-8a6e-ae7e04996cc4.png)
 
-## First Deployment & [Live site](https://5ed7c1b50da659017d791513--serene-clarke-0aa988.netlify.app/)
+## First Deployment & [Live site](https://kodflix-zee.herokuapp.com/)
 This project has deployed its frontend to [Heroku](https://www.heroku.com/). 
 
 ## Available Scripts
